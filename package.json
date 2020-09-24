@@ -13,5 +13,14 @@
   "dependencies": {
     "live-server": "^1.2.0"
   },
-  "description": ""
+  "description": "Cours PWA\r LISEZ-MOI SVP...",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CCoudercGit/pwa-pratique.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CCoudercGit/pwa-pratique/issues"
+  },
+  "homepage": "https://github.com/CCoudercGit/pwa-pratique#readme"
 }
