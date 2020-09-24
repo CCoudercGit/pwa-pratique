@@ -10,3 +10,4 @@ Comment se servir de ce projet:
 
 Troubleshooting:
 1. Si ça marche pas, désolé
+2. Trouvez le bug et réparez-le. Simple.
