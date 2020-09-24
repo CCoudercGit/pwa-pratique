@@ -1,0 +1,17 @@
+{
+  "name": "veilletechno",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "jsonserver": "json-server -p 3001 --watch db.json",
+    "start": "live-server --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  },
+  "description": ""
+}
