@@ -5,7 +5,12 @@ const technosDiv = document.querySelector('#technos');
 	
 function loadTechnologies(technos) {
 	
-    fetch('http://localhost:3001/technos')
+    fetch('https://us-central1-pwa-technos-couderc.cloudfunctions.net/getTechnos', { 
+        method: 'GET', 
+        headers: {
+            'Content-Type': 'application/json'
+        },
+    })
 	
         .then(response => {
 	
