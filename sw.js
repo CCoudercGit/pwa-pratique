@@ -178,4 +178,10 @@ self.addEventListener("notificationclick", evt => {
 	
     }
 	
+  
+	
+    // 7.5 Fermer programmatiquement une notification
+	
+    evt.notification.close();
+	
 })
