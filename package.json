@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "live-server": "^1.2.0"
+    "live-server": "^1.2.0",
+    "web-push": "^3.4.4"
   },
   "description": "Cours PWA\r LISEZ-MOI SVP...",
   "devDependencies": {},
