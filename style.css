@@ -1,48 +1,48 @@
 body {
-    background-color: #e9ecef;
-    margin: 30px;
+  background-color: #e9ecef;
+  margin: 30px;
 }
 
-.row:first-child{
-    border-bottom: 1px solid #ced4da;
-    margin-bottom: 30px;;
+.row:first-child {
+  border-bottom: 1px solid #ced4da;
+  margin-bottom: 30px;
 }
 
 .row:first-child > .col {
-    padding: 10px;
-    text-align: center;
+  padding: 10px;
+  text-align: center;
 }
 
 h1 {
-    color: #464a4e;
-    font-size: xx-large;
+  color: #464a4e;
+  font-size: xx-large;
 }
 
 h2 {
-    color: #868e96;
-    font-size: x-large;
-    margin-bottom: 30px;
+  color: #868e96;
+  font-size: x-large;
+  margin-bottom: 30px;
 }
 
 /* Home */
 .card {
-    width: 400px;
-    margin-bottom: 10px;
+  max-width: 400px;
+  width: 100%;
+  margin-bottom: 10px;
 }
-
 
 /* Technos */
 input {
-    width: 400px;
-    margin-bottom: 10px;
-    padding: 5px;
+  width: 400px;
+  margin-bottom: 10px;
+  padding: 5px;
 }
 
 button {
-    padding: 5px 10px;
-    border-radius: 20px;
-    background-color: black;
-    color: #e9ecef;
-    margin-top: 10px;
-    border: Opx;
+  padding: 5px 10px;
+  border-radius: 20px;
+  background-color: black;
+  color: #e9ecef;
+  margin-top: 10px;
+  border: Opx;
 }
